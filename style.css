@@ -46,8 +46,31 @@ width: 20%;
 }
 
 .estudante-imagem{
-    width: 120px;
+        width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+
 }
 .estudante-div{
     text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+.rodape{
+    background-color: #E46060;
+    text-align: center;
+}
+.radape-imagem{
+ height: 30px;
+ padding: 12px 0;
 }
